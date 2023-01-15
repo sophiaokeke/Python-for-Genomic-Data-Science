@@ -1,4 +1,4 @@
-# Python-for-Genomic-Data-Science-on CoursEra
+# Python-for-Genomic-Data-Science-on Coursera
 
 I developed a python program that takes as input a file containing DNA sequences in multi-FASTA and :
 
