@@ -1,5 +1,4 @@
-# Python-for-Genomic-Data-Science
-These are the notebooks I created in completing the course project.
+# Python-for-Genomic-Data-Science-on CoursEra
 
 I developed a python program that takes as input a file containing DNA sequences in multi-FASTA and :
 
